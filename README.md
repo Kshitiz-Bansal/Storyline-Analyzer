@@ -21,7 +21,7 @@ An undirected graph is created after cleaning and filtering the raw data provide
 
 Then the graph is analyzed for further understanding about the size, edge to node ratio (density) etc. I calculate average number of co-occurrences and also rank the nodes according to importance (based on number of unique occurrences).
 
-##### But why?
+#### But why?
 
 1) Average co-occurences: This gives us an idea about the density of the graph. And that corresponds to the inter-connectivity of a universe. High average value means that the universe is closely connected and probably requires you to remember stuff from previous comics and movies.
 
