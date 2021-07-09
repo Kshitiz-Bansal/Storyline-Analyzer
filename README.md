@@ -10,6 +10,11 @@ The data is a set of nodes (corresponding to each character) and edges, and is p
 
 Independent storyline is defined as a set of characters who interact (and their mentions) with other characters in the set only. One could say, that for a long time, the Guardians of the Galaxy and the Avengers were separate storylines. (they were eventually connected too)
 
+<p align="center">
+  <img src="img/GoT_Network_Characters.png" width="500"/><br>
+  This is a sample network curve of the characters of Game of Thrones.
+</p>
+
 ### Approach
 
 An undirected graph is created after cleaning and filtering the raw data provided. Each node corresponds to a character of the concerned universe and edges represent inter-dependence/co-occurrence relation among the corresponding characters.
