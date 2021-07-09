@@ -61,3 +61,5 @@ For independent storylines use:
 ~~~
 java StorylineAnalyzer.java <nodes file> <edges file> independent_storylines_dfs
 ~~~
+
+** Use compare.py file to compare your output with the correct output. **
