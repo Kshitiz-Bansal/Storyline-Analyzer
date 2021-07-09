@@ -33,7 +33,8 @@ After finding these, I identify independent storylines.
 This is simply a problem of finding connected components in an undirected graph. Each component corresponds to one independent storyline. To find the components, I run a DFS over the graph. I make sure that the search continues with a random node after a component is found, insuring the required work is properly done.
 
 <p align="center">
-  <img src="img/Components.svg" width="500"/><br>
+  <!-- <img src="img/Components.svg" width="500"/><br> -->
+  <img src="img/connected_components.png" width="500"/><br>
 </p>
 
 
