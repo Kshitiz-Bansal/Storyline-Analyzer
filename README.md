@@ -2,6 +2,8 @@
 
 This is a java-based storyline analyzer capable of segmenting comic worlds into independent storylines and also provide important statistics.
 
+Course Project | COL106: Data Structures & Algorithms | Prof. Rahul Garg, Prof. Rijurekha Sen | Fall 2020-21
+
 ### Problem Statement:
 
 A comic world is decomposed down into data and we are supposed to calculate relevant statistics and the partition the characters into independent storylines.
